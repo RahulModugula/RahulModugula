@@ -1,8 +1,10 @@
 ## Hey, I'm Rahul
 
-Software engineer focused on distributed systems, data engineering, and ML infrastructure. Looking for new grad / early-career roles (F-1 OPT eligible).
+Software engineer focused on distributed systems, data engineering, ML infrastructure, and applied computer vision. Looking for new grad / early-career roles (F-1 OPT eligible).
 
 ### What I Build
+
+**[witness](https://github.com/RahulModugula/witness)** — FastAPI service that watches a procedure video and produces a structured JSON compliance trace. YOLO-World v2 open-vocab detection + BoT-SORT tracking + MediaPipe hand-pose + hysteresis-based interaction detection. Annotated keyframes at every motion transition and interaction peak. 34 tests, CI green, ~25s pipeline on the bundled 8s sample (CPU-only). v0.1.0 released.
 
 **[kronos](https://github.com/RahulModugula/kronos)** — Distributed job scheduler in Go. gRPC API, PostgreSQL-backed queue (`SELECT FOR UPDATE SKIP LOCKED`), leader election via advisory locks, cursor-based pagination, idempotency key deduplication, exponential backoff with jitter. Worker pool benchmarks at ~1.1M jobs/sec in isolation, ~2,800 jobs/sec end-to-end against Postgres. CI via GitHub Actions.
 
@@ -16,4 +18,4 @@ Software engineer focused on distributed systems, data engineering, and ML infra
 
 ### Tech
 
-Go · Python · TypeScript · gRPC · PostgreSQL · Kafka · Spark · Delta Lake · FastAPI · PyTorch · scikit-learn · Redis · Docker · Prometheus
+Go · Python · TypeScript · gRPC · PostgreSQL · Kafka · Spark · Delta Lake · FastAPI · PyTorch · scikit-learn · OpenCV · MediaPipe · YOLO-World · Redis · Docker · Prometheus
