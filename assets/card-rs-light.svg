@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="290" height="230" viewBox="0 0 290 230" role="img" aria-labelledby="t d">
   <title id="t">ResiliScore</title>
-  <desc id="d">ResiliScore: Catastrophe-resilience scoring prototype. 300 to 850 scale, Credibility-weighted estimates, Contract-is-law schemas. Stack: Python · Next.js · Three.js. private repo.</desc>
+  <desc id="d">ResiliScore: Parcel-level flood screening index, NYC. Pre-registered back-test, Public evidence pack, 3D block story (Three.js). Stack: Python · Next.js · Three.js. private repo.</desc>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#eef3fb"/>
@@ -9,9 +9,9 @@
   <rect x="0.5" y="0.5" width="289" height="229" rx="12" fill="url(#g)" stroke="#d0d7de"/>
   <rect x="0.5" y="0.5" width="289" height="5" rx="2.5" fill="#0969da"/>
   <text x="20" y="40" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1f2328">ResiliScore</text>
-  <text x="20" y="62" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">Catastrophe-resilience scoring prototype</text>
+  <text x="20" y="62" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">Parcel-level flood screening index, NYC</text>
   <line x1="20" y1="76" x2="270" y2="76" stroke="#d0d7de"/>
-  <circle cx="30" cy="104" r="3.5" fill="#0969da"/><text x="42" y="108" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">300 to 850 scale</text><circle cx="30" cy="128" r="3.5" fill="#0969da"/><text x="42" y="132" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">Credibility-weighted estimates</text><circle cx="30" cy="152" r="3.5" fill="#0969da"/><text x="42" y="156" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">Contract-is-law schemas</text>
+  <circle cx="30" cy="104" r="3.5" fill="#0969da"/><text x="42" y="108" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">Pre-registered back-test</text><circle cx="30" cy="128" r="3.5" fill="#0969da"/><text x="42" y="132" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">Public evidence pack</text><circle cx="30" cy="152" r="3.5" fill="#0969da"/><text x="42" y="156" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4650">3D block story (Three.js)</text>
   <text x="20" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#57606a">Python · Next.js · Three.js</text>
   <rect x="20" y="198" width="87.19999999999999" height="20" rx="10" fill="#ddf4ff"/>
   <text x="28" y="212" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0550ae">private repo</text>
