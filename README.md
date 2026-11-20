@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Rahul Modugula. Software engineer. I build systems that check their own work: trust layers, evaluation, distributed systems, ML infrastructure." src="assets/header-light.svg" width="900">
+  <img alt="Rahul Modugula. AI/ML Engineer. I build systems that check their own work: trust layers, evaluation, distributed systems, ML infrastructure." src="assets/header-light.svg" width="900">
 </picture>
 
 I like software where the hard part is being **right**, not just fast: verification that fails closed, evaluations decided before the results exist, and pipelines that can prove what they did. Looking for new grad / early-career roles (F-1 OPT eligible).
