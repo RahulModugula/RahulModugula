@@ -6,6 +6,8 @@
 
 I build models, retrieval systems and the evaluation that keeps them honest. I like software where the hard part is being **right**, not just fast: verification that fails closed, evaluations decided before the results exist, and pipelines that can prove what they did. Looking for new grad / early-career roles (F-1 OPT eligible).
 
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/rahulmodugula3/) · [Email](mailto:rahulmodugula3@gmail.com)
+
 ## Featured
 
 <table>
@@ -124,3 +126,7 @@ Tests first. Pre-registered evaluations. Fail-closed defaults. No secrets and no
 **ML and data:** Bayesian modelling (NumPyro, JAX) · retrieval and reranking · RAG and evaluation design · PyTorch · scikit-learn · OpenCV · Spark and Kafka pipelines
 
 **Systems:** Python · Go · TypeScript · FastAPI · PostgreSQL · SQLite · Docker · Fly.io · GitHub Actions
+
+## Get in touch
+
+I am happy to talk about AI/ML engineering roles, evaluation design, or any of the work above. [LinkedIn](https://www.linkedin.com/in/rahulmodugula3/) or [email](mailto:rahulmodugula3@gmail.com).
