@@ -61,7 +61,7 @@ AI engineer in New York. I build LLM and retrieval systems, and the evaluation t
       <a href="#sovereign-legal-ai-private-repo">
         <img alt="Sovereign Legal AI start screen: task cards such as check every citation before filing a draft, each saying when to use it, three steps, what you get and what it does not tell you." src="assets/shots/sla-start.png">
       </a>
-      <br><b>Sovereign Legal AI: check a draft before filing.</b> Paste it or drop the file, and every citation gets a status word with the quotation set beside the Court's paragraph. Each card also says what it does not tell you, such as whether a case is still good law. The preview is private and invite-only; <a href="mailto:rahulmodugula3@gmail.com">ask for access</a>.
+      <br><b>Sovereign Legal AI: check a draft before filing.</b> Paste it or drop the file, and every citation gets a status word with the quotation set beside the Court's paragraph. Each card also says what it does not tell you, such as whether a case is still good law. <a href="https://slai-staging.fly.dev/">Try the live demo</a>: a staging preview over public judgments, so do not enter real client material.
     </td>
   </tr>
 </table>
