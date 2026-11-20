@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="230" viewBox="0 0 290 230" role="img" aria-labelledby="t d">
+  <title id="t">Sovereign Legal AI</title>
+  <desc id="d">Sovereign Legal AI: Citation checking for Indian advocates. Fail-closed by design, Quote-in-paragraph checks, Pre-registered evals. Stack: Python · FastAPI · SQLite · OCR. private repo.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#141c2e"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="289" height="229" rx="12" fill="url(#g)" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="289" height="5" rx="2.5" fill="#58a6ff"/>
+  <text x="20" y="40" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f0f6fc">Sovereign Legal AI</text>
+  <text x="20" y="62" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Citation checking for Indian advocates</text>
+  <line x1="20" y1="76" x2="270" y2="76" stroke="#30363d"/>
+  <circle cx="30" cy="104" r="3.5" fill="#58a6ff"/><text x="42" y="108" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Fail-closed by design</text><circle cx="30" cy="128" r="3.5" fill="#58a6ff"/><text x="42" y="132" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Quote-in-paragraph checks</text><circle cx="30" cy="152" r="3.5" fill="#58a6ff"/><text x="42" y="156" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Pre-registered evals</text>
+  <text x="20" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">Python · FastAPI · SQLite · OCR</text>
+  <rect x="20" y="198" width="87.19999999999999" height="20" rx="10" fill="#10294b"/>
+  <text x="28" y="212" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#a5d6ff">private repo</text>
+</svg>
