@@ -6,6 +6,8 @@
 
 I build models, retrieval systems and the evaluation that keeps them honest. I like software where the hard part is being **right**, not just fast: verification that fails closed, evaluations decided before the results exist, and pipelines that can prove what they did. Looking for new grad / early-career roles (F-1 OPT eligible).
 
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/rahulmodugula3/) · [Email](mailto:rahulmodugula3@gmail.com)
+
 ## Featured
 
 <table>
@@ -38,6 +40,27 @@ I build models, retrieval systems and the evaluation that keeps them honest. I l
 </table>
 
 <sub>These three live in private repositories, so each card links to its write-up below. The public projects are further down.</sub>
+
+## See it in action
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img alt="ResiliScore Manhattan property explorer: a 3D map of Manhattan with a list of 38 neighborhoods on the left." src="assets/shots/rs-explorer.png">
+      <br><b>ResiliScore.</b> Pick a neighborhood on the 3D Manhattan map, then a property, and get a screening where the evidence status is shown explicitly. The footer says what the map is not: mapped footprints, not surveyed parcel boundaries.
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Rezilient weekly need card for a synthetic person: chance a need arises this week for five needs, each with a 10 to 90 percent interval and how much of the spread is model uncertainty." src="assets/shots/rz-risk.png">
+      <br><b>Rezilient.</b> For a synthetic person, the chance each need arises this week, with a 10 to 90% interval and how much of the spread is model uncertainty. The care team's daily capacity then decides who is contacted, and a person sends every message.
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Sovereign Legal AI start screen: task cards such as check every citation before filing a draft, each saying when to use it, three steps, what you get and what it does not tell you." src="assets/shots/sla-start.png">
+      <br><b>Sovereign Legal AI.</b> Check a draft before filing: paste it or drop the file, and every citation gets a status word with the quotation set beside the Court's paragraph. Each card also says what it does not tell you, such as whether a case is still good law.
+    </td>
+  </tr>
+</table>
+
+<sub>All screens use synthetic or built-in sample data. These are prototypes, not validated products.</sub>
 
 ## Selected work
 
@@ -103,3 +126,7 @@ Tests first. Pre-registered evaluations. Fail-closed defaults. No secrets and no
 **ML and data:** Bayesian modelling (NumPyro, JAX) · retrieval and reranking · RAG and evaluation design · PyTorch · scikit-learn · OpenCV · Spark and Kafka pipelines
 
 **Systems:** Python · Go · TypeScript · FastAPI · PostgreSQL · SQLite · Docker · Fly.io · GitHub Actions
+
+## Get in touch
+
+I am happy to talk about AI/ML engineering roles, evaluation design, or any of the work above. [LinkedIn](https://www.linkedin.com/in/rahulmodugula3/) or [email](mailto:rahulmodugula3@gmail.com).
